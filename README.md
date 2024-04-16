@@ -1,5 +1,5 @@
 # IntruDetect: Intrusion Detection System Using Deep Learning
-### CREATOR: Calvin Seamons (Computer Science Undergraduate at Brigham Young University)
+### CREATOR: Calvin Seamons (Computer Science BA, BYU)
 
 This repository contains the code and documentation for a project aimed at developing a sophisticated Intrusion Detection System (IDS) utilizing deep learning to analyze network traffic and detect anomalies, unauthorized access, and malicious activities in real time. Our goal is to enhance network security with higher efficiency and reduced false positives compared to traditional IDS solutions.
 

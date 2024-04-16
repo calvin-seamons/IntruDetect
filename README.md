@@ -10,13 +10,13 @@ The primary objective is to create a robust IDS that leverages deep learning tec
 ## Approach
 
 ### Data Collection and Preparation
-- **Datasets Used**: UNSW-NB15 and CICIDS2017, which offer labeled instances of normal and various types of attack activities.
+- **Datasets Used**: UNSW-NB15, which offers labeled instances of normal and various types of attack activities.
 - **Preprocessing**: Normalization of values, encoding of categorical variables, and handling of missing data.
 - **Feature Selection**: Identification of relevant features that distinguish between normal and malicious traffic.
 
 ### Model Development
-- **Architectures**: Implementation of a MLP Binary classifier, MLP multi-class classifier, etc
-- **Training**: Models are trained on preprocessed data, with hyperparameter tuning based on gridsearch results.
+- **Architectures**: Implementation of an MLP Binary classifier, MLP multi-class classifier, etc
+- **Training**: Models are trained on preprocessed data, with hyperparameter tuning based on grid search results.
 
 ### Evaluation Metrics
 - **Metrics**: Accuracy, precision, recall, F1 score, and area under the ROC curve (AUC).

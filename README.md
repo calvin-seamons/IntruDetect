@@ -31,7 +31,7 @@ The primary objective is to create a robust IDS that leverages deep learning tec
 
 ## Available Resources
 
-- **Datasets**: Access to UNSW-NB15 and CICIDS2017 for model training.
+- **Datasets**: Access to UNSW-NB15 for model training.
 - **Computational Resources**: GPUs available for efficient real-time analysis.
 - **Software and Tools**: Deep learning frameworks like TensorFlow or PyTorch
 - **Expertise**: Support from academic advisors and cybersecurity experts.
